@@ -1,0 +1,72 @@
+body{
+    background-color: darkblue;
+    color:azure;
+    background-image: url("https://images.unsplash.com/photo-1506157786151-b8491531f063?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+    background-position:inherit;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+a{
+    color: bisque;
+}
+
+
+.header-div{
+    background-color: blueviolet;
+    border-bottom: 5px blue solid;
+}
+a.header-div, a.menu-main{
+    color:snow;
+    text-decoration: underline;    
+}
+
+.menu-main{
+    position:relative;
+    width:auto;
+    
+    display: inline;
+}
+
+.main-container{
+    background-color: rgba(43, 32, 43, 0.763);
+    background-image: url("https://images.unsplash.com/photo-1477233534935-f5e6fe7c1159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+    padding: 1%;
+}
+
+.section-style{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.artist-info{
+
+}
+.artist-describe{
+
+}
+.artiste-website{
+
+}
+
+form{
+    padding:1% 2%;
+}
+
+
+
+#page-footer{
+
+}
+
+.tab-container3{
+
+}
+.tab-container3-left{
+    
+}
+.tab-container3-center{
+    
+}
+.tab-container3-right{
+    
+}
