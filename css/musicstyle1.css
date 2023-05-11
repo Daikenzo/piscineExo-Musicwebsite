@@ -10,9 +10,27 @@ a{
     color: bisque;
     margin:1.2em;
     padding:0.2em;
+    font-weight: bold;
+    text-decoration-line: none; 
     
 }
-
+.menu-logo{
+    display: inline;
+    text-align: center;
+    text-decoration: none;
+    margin: 5% 0.5% 0% 0.55%;
+    padding: 1% 0.5% 0% 0%;
+    
+}
+#menuSiteBlock{
+    margin: auto;
+    padding: 2% 1% 0.7% 1%;
+    background-image: url("https://images.unsplash.com/photo-1477233534935-f5e6fe7c1159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+    background-attachment: fixed;
+    background-size: auto;
+    text-decoration: overline;
+    text-align: center;
+}
 
 .header-div{
     background-color: blueviolet;
@@ -21,13 +39,25 @@ a{
 nav.header-div, nav.menu-main{
     display: inline;
     align-content: center;
-    padding: ;
+    text-align: center;
+    
+}
+#navMenu{
+    border-left: 50%;
+    border-right: 50%;
 }
 
 a.header-div, a.menu-main{
     color:snow;
     text-decoration: underline;
     background-color: rgba(44, 43, 79, 0.744);
+
+    padding: 2%;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    font-size: large;
+    font-weight: bold;
+    text-decoration-line: none; 
     
 }
 
@@ -70,7 +100,7 @@ form{
 #page-footer{
     background-color: rgb(57, 2, 108);
     border-top: 5px white solid ;
-    
+
 
 
 }
