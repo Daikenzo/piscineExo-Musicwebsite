@@ -8,6 +8,9 @@ body{
 }
 a{
     color: bisque;
+    margin:1.2em;
+    padding:0.2em;
+    
 }
 
 
@@ -15,9 +18,17 @@ a{
     background-color: blueviolet;
     border-bottom: 5px blue solid;
 }
+nav.header-div, nav.menu-main{
+    display: inline;
+    align-content: center;
+    padding: ;
+}
+
 a.header-div, a.menu-main{
     color:snow;
-    text-decoration: underline;    
+    text-decoration: underline;
+    background-color: rgba(44, 43, 79, 0.744);
+    
 }
 
 .menu-main{
